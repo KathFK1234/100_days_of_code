@@ -17,3 +17,9 @@ Day 3: 18/03/24
     - alx-higher_level_programming/0x03-python_data_structures,
     - PLP_Assignments/Python_Programming, and 
     - PLP_Assignments/Web_Technologies
+
+Day 4: 19/03/24
+- Learned a little more on inserting images in HTML, and how to align text and bullets.
+- Tried out some examples of the same.
+- Reference repository:
+    - PLP_Assignments/Web_Technologies/Week_Two
